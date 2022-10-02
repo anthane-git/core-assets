@@ -14,14 +14,14 @@
 <g>
 	<g>
 		<g>
-			<polygon class="st0" points="570.77,429.25 559.22,331.25 533.06,411.4 			"/>
-			<polygon class="st1" points="472.77,413.43 559.22,331.25 507.25,407.75 			"/>
-			<polygon class="st2" points="507.25,407.75 518.39,419.89 559.22,331.25 			"/>
-			<polygon class="st3" points="518.39,419.89 559.22,331.25 533.06,411.4 			"/>
+			<polygon class="st0" points="574.91,433.63 564.3,343.63 540.29,417.23 			"/>
+			<polygon class="st1" points="484.91,419.1 564.3,343.63 516.58,413.88 			"/>
+			<polygon class="st2" points="516.58,413.88 526.81,425.03 564.3,343.63 			"/>
+			<polygon class="st3" points="526.81,425.03 564.3,343.63 540.29,417.23 			"/>
 		</g>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 598.8201 417.2808)" class="st4 st5 st6">Core</text>
+		<text transform="matrix(1 0 0 1 605.3379 417.2805)" class="st4 st5 st6">core</text>
 	</g>
 </g>
 </svg>
